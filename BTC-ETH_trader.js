@@ -1,3 +1,5 @@
+// Copyright 2016, Will Clark
+
 var polo = require("poloniex-unofficial");
 var sleep = require('sleep-async')();
 
