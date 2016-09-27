@@ -1,0 +1,10 @@
+{
+  "name": "SocketIO_1",
+  "version": "0.0.1",
+  "description": "my first socket.io server",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.6",
+    "poloniex-unofficial": "^1.1.1"
+  }
+}
